@@ -67,5 +67,5 @@
     mostrararray1($array1);
     $array2 = creararray2(10,5);
     mostrararray2($array2,10,5);
-    $array3 = creararray3(10,5);
+    $array3 = creararray3(20,5);
 ?>
